@@ -1,0 +1,28 @@
+button
+{
+	width: 150px;
+	border: 2px round lightsteelblue;
+	border-radius: 40px;
+	background-color: white;
+	height: 60px;
+	margin-top: 6px;
+	color: black;
+	box-shadow: 30px;
+	font-family: verdana;
+}
+button:hover{
+	background-color:darkgrey;
+	color: white;
+	border: 2px solid white;
+	transform: rotate(2deg);
+	cursor: pointer;
+
+}
+a
+{
+	color: black;
+}
+a:hover
+{
+	color: white;
+}

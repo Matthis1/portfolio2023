@@ -1,0 +1,59 @@
+header
+{
+	background-color: whitesmoke;
+}
+section
+{
+	background-color: 	lightseagreen;
+}
+h1
+{
+	text-align: center;
+}
+table,.inp1
+{
+	width: 100%;
+}
+li
+{
+	list-style-type:none ;
+}
+div
+{
+	border: solid lightseagreen 2px;
+}
+.dh1
+{
+	border: solid whitesmoke 2px;
+	float: left;
+	width: 50%;
+}
+.dh2
+{
+	border: solid whitesmoke 2px;
+	float: none;
+}
+.d1
+{
+	float: left;
+	width: 45%;
+	margin-right: 5%;
+}
+.d2
+{
+	float: none;
+}
+.df
+{	
+	float: right;
+	width: 24%;
+}
+.td1
+{
+	text-align: right;
+	width: 25%;
+}
+.inp1
+{
+	width: 98%
+}
