@@ -1,0 +1,183 @@
+body
+{
+	background: navy;
+	text-align: center;
+}
+h1
+{
+	color: purple;
+	font-family: verdana;
+	font-size: 2em;
+}
+div
+{
+	border: 3px solid purple;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 26px;
+	padding: 15px 35px;
+
+}
+
+button
+{
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 26px;
+	background-color: lightsteelblue;
+	height: 60px;
+	margin-top: 6px;
+	box-shadow: 30px;
+
+}
+
+button:hover {
+	background-color:purple;
+	color: lightsteelblue;
+	border: 2px solid lightsteelblue;
+	transform: rotate(3deg);
+	cursor: pointer;
+}
+
+.b1
+{
+	background: black;
+	text-align: center;
+}
+.t1
+{
+	color: red;
+	font-family: verdana;
+	font-size: 2em;
+}
+.d2
+{
+	border: 3px solid red;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 26px;
+	padding: 15px 35px;
+
+}
+
+.button2
+{
+	width: 200px;
+	border: 2px solid pink;
+	border-radius: 26px;
+	background-color: red;
+	height: 60px;
+	margin-top: 6px;
+	box-shadow: 30px;
+}
+
+.button2:hover {
+	background-color:pink;
+	color: red;
+	border: 2px solid red;
+	transform: rotate(3deg);
+	cursor: pointer;
+}
+.zn
+{
+	border: 2px solid pink;
+	border-radius: 26px;
+	width: 200px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.b2
+{
+	background: black;
+	text-align: center;
+}
+.t2
+{
+	color: navy;
+	font-family: verdana;
+	font-size: 2em;
+}
+.d3
+{
+	border: 3px solid navy;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 26px;
+	padding: 15px 35px;
+
+}
+
+.button3
+{
+	width: 200px;
+	border: 2px solid cyan;
+	border-radius: 26px;
+	background-color: navy;
+	height: 60px;
+	margin-top: 6px;
+	box-shadow: 30px;
+}
+
+.button3:hover {
+	background-color:cyan;
+	color: navy;
+	border: 2px solid navy;
+	transform: rotate(3deg);
+	cursor: pointer;
+}
+.zn1
+{
+	border: 2px solid cyan;
+	border-radius: 26px;
+	width: 250px;
+	background-color: black;
+	color: cyan;
+	text-align: center;
+}
+.Tnmbr
+{
+	padding-right: 123px;
+}
+#nmbr
+{
+	width: 3em;
+}
+
+.button4
+{
+	width: 200px;
+	border: 2px solid aquamarine;
+	border-radius: 26px;
+	background-color: aqua;
+	height: 60px;
+	margin-top: 6px;
+	box-shadow: 30px;
+}
+
+.button4:hover {
+	background-color:aquamarine;
+	color: white;
+	border: 2px solid white;
+	transform: rotate(3deg);
+	cursor: pointer;
+}
+.b3
+{
+	background: darkslategrey;
+	text-align: center;
+}
+table, td
+{
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ .td1
+ {
+ 	color: white;
+ }

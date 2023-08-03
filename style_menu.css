@@ -1,0 +1,38 @@
+body
+{
+	background-color: lightsteelblue;
+	padding-right: 25%;
+	padding-left: 25%;
+}
+ul li
+{
+	width: 200px;
+	height: 50px;
+	border: 2px solid grey;
+	border-color: cyan;
+	list-style: none;
+	color: navy;
+	font-size: 20px;
+	font-family: verdana;
+	padding-left: 10px;
+	line-height: 50px;
+}
+ul li:hover
+{
+	cursor: pointer;
+	width: 250px;
+	background-color: purple;
+	color: cyan;
+	font-weight: bold;
+	border: 2px solid navy;
+	padding-left: 45px;
+	transition: 1s
+}
+div
+{
+	background-color: beige;
+	width: 40%;
+	height: 100%;
+	padding-left: 20%;
+	padding-right: 20%
+}

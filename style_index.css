@@ -1,0 +1,44 @@
+.b1
+{
+	background-color: black;
+}
+.c
+{
+	background-color: darkslategrey;
+	color: black;
+}
+.t1
+{
+	color: white;
+}
+.p1
+{
+	color: white;
+	font-size: 20px;
+}
+.f
+{
+	background-image: url(imgit.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.bt3, .bt4
+{
+	color: white;
+}
+.bt1, .bt2
+{
+	color: black;
+}
+a
+{
+	color: white;
+}
+a:hover{
+	color: white;
+}
+.tab1, tr, td
+{
+	border: 4px solid black;
+	
+}

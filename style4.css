@@ -1,0 +1,42 @@
+body
+{
+	background-color: darkslateblue;
+
+}
+.c1, .c2, .c3
+{
+	height: 15%;
+	width: 30%;
+	border: 3px solid darkslategrey;
+	border-radius: 26px;
+	float: left;
+	text-align: center;
+	margin: 20px;
+}
+.c1
+{
+	background-color: blue;
+}
+.c2
+{
+	background-color: white;
+}
+.c3
+{
+	background-color: red;
+}
+.t1, .t2
+{
+	text-align: center;
+	width: auto;
+	background-color: lightsteelblue;
+	clear: both;
+	border-radius: 3px
+}
+.st
+{
+	background-color: lightsteelblue;
+	border-radius: 26px;
+	margin-top: -20px;
+	width: 100%;
+}
